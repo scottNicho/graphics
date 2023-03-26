@@ -1,0 +1,6 @@
+﻿  Renderer.cpp
+C:\Users\c2065963\source\repos\graphics2\ZXEmulator\Renderer.cpp(86,77): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\c2065963\source\repos\graphics2\ZXEmulator\Renderer.cpp(86,70): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  ZXEmulator.cpp
+  Generating Code...
+  ZXEmulator.vcxproj -> C:\Users\c2065963\source\repos\graphics2\x64\Debug\ZXEmulator.exe
